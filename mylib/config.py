@@ -1,0 +1,11 @@
+MODEL_PATH = "yolo"
+MIN_CONF = 0.3
+NMS_THRESH = 0.3
+People_Counter = True
+Thread = False
+Threshold = 20
+url = 'http://24.196.110.155:80/mjpg/video.mjpg'
+ALERT = False
+USE_GPU = True
+MAX_DISTANCE = 80
+MIN_DISTANCE = 50
